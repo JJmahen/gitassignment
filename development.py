@@ -1,2 +1,27 @@
-print("Hello, this is file 1.")
-print("This is an amazing file.")
+# Fancy OM symbol using ASCII art
+
+om_fancy = '''
+               _/\_  
+           .--.  _  .--.
+          /    \/ \\/    \\
+          \     /\\_/\\     /
+           '._.'     '._.'
+              /  O   O  \\
+             /    \_/    \\
+            /      |      \\
+           /       |       \\
+          /________|________\\
+         |__________O_________|
+                |  |  |
+                |  |  |
+                |  |  |
+                |__|__|
+              (____|____)
+               |  | |  |
+               |  | |  |
+               |  | |  |
+               |__| |__|
+'''
+
+print(om_fancy)
+print("          OM - The Universal Sound")
