@@ -1,21 +1,15 @@
-# Cute OM symbol using ASCII art
+# ASCII Art for Apple Logo
+apple_logo = r"""
+          ,--./,-.
+         / #      \
+        |          |
+         \        /  
+          `._,._,'
+"""
 
-om_cute = '''
-      .--.  .--.
-     (    )(    )
-      '--'  '--'
-        _    _
-       (o)--(o)
-     .-._.-._.-._
-    |             |
-    |  O     O   |
-    |      /     |
-     \     |    /
-      '-._.-._.-'
-         |  |
-         |  |
-         |__|
-'''
+# Print the Apple Logo
+print("Here's an ASCII representation of the Apple logo:")
+print(apple_logo)
 
-print(om_cute)
-print("       OM - The Sound of the Universe 💖")
+# Print a message
+print("Stay inspired with creativity and innovation! 🍏✨")
