@@ -1,27 +1,21 @@
-# Fancy OM symbol using ASCII art
+# Cute OM symbol using ASCII art
 
-om_fancy = '''
-               _/\_  
-           .--.  _  .--.
-          /    \/ \\/    \\
-          \     /\\_/\\     /
-           '._.'     '._.'
-              /  O   O  \\
-             /    \_/    \\
-            /      |      \\
-           /       |       \\
-          /________|________\\
-         |__________O_________|
-                |  |  |
-                |  |  |
-                |  |  |
-                |__|__|
-              (____|____)
-               |  | |  |
-               |  | |  |
-               |  | |  |
-               |__| |__|
+om_cute = '''
+      .--.  .--.
+     (    )(    )
+      '--'  '--'
+        _    _
+       (o)--(o)
+     .-._.-._.-._
+    |             |
+    |  O     O   |
+    |      /     |
+     \     |    /
+      '-._.-._.-'
+         |  |
+         |  |
+         |__|
 '''
 
-print(om_fancy)
-print("          OM - The Universal Sound")
+print(om_cute)
+print("       OM - The Sound of the Universe 💖")
