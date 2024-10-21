@@ -12,4 +12,4 @@ print("Here's an ASCII representation of the Apple logo:")
 print(apple_logo)
 
 # Print a message
-print("A apple a day keeps a doctor away")
+print("A apple a day keeps a doctor away and also the code has been changed")
