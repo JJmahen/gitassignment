@@ -12,7 +12,7 @@ print("Here's an ASCII representation of the Apple logo:")
 print(apple_logo)
 
 # Print a message
-print("this is nice apple")
+print("this is nice apple and code has also been changed in here")
  
 
  
