@@ -30,5 +30,7 @@ print(apple_logo)
 # Print a message
 print("this is nice apple and code has also been changed in here")
  
-
+# Print a message
+print("some line of code has been changed")
+ 
  
